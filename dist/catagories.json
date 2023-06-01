@@ -1,0 +1,22 @@
+[
+  {
+    "Category_name": "Account & Finance",
+    "Category_logo": "https://tawhidalfatah.github.io/career-images/accounts.png",
+    "Jobs_available": 300
+  },
+  {
+    "Category_name": "Creative Design",
+    "Category_logo": "https://tawhidalfatah.github.io/career-images/business.png",
+    "Jobs_available": 100
+  },
+  {
+    "Category_name": "Marketing & Sales",
+    "Category_logo": "https://tawhidalfatah.github.io/career-images/social-media.png",
+    "Jobs_available": 150
+  },
+  {
+    "Category_name": "Engineering Job",
+    "Category_logo": "https://tawhidalfatah.github.io/career-images/chip.png",
+    "Jobs_available": 224
+  }
+]
